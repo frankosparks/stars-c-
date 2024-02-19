@@ -1,0 +1,14 @@
+/home/usr/OOP 10-stars/bin/Debug/net6.0/OOP 10-stars
+/home/usr/OOP 10-stars/bin/Debug/net6.0/OOP 10-stars.deps.json
+/home/usr/OOP 10-stars/bin/Debug/net6.0/OOP 10-stars.runtimeconfig.json
+/home/usr/OOP 10-stars/bin/Debug/net6.0/OOP 10-stars.dll
+/home/usr/OOP 10-stars/bin/Debug/net6.0/OOP 10-stars.pdb
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.GeneratedMSBuildEditorConfig.editorconfig
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.AssemblyInfoInputs.cache
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.AssemblyInfo.cs
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.csproj.CoreCompileInputs.cache
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.dll
+/home/usr/OOP 10-stars/obj/Debug/net6.0/refint/OOP 10-stars.dll
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.pdb
+/home/usr/OOP 10-stars/obj/Debug/net6.0/OOP 10-stars.genruntimeconfig.cache
+/home/usr/OOP 10-stars/obj/Debug/net6.0/ref/OOP 10-stars.dll
