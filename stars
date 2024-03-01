@@ -1,0 +1,6 @@
+This is a simple C# program that dispalys stars in ascending order.
+The number of stars increase by one at each line as they move down.
+Looks like this;
+*
+**
+***
